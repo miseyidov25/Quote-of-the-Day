@@ -1,7 +1,7 @@
-## Quote of the Day
-
 # Quote of the Day official website
-# Make ur day alittle bit better with our motivation
+This project was developed by me from scratch and moved to GitHub for public access. The source code was created by me as part of an educational project.
+
+Make ur day alittle bit better with our motivation
 
 
 ## Requirements
